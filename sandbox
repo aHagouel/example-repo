@@ -1,0 +1,11 @@
+Hello! You've entered the sandbox. If you want to add something here, be my guest! ASCII art is cool!
+
+Once you've modified the file, please run the following sequence. 
+
+1) git add example-repo/sandbox
+2) git commit -m "Add a useful message"
+2) git push 
+
+That's it! 
+
+-----------------------------------------------------------------------------------------------------
